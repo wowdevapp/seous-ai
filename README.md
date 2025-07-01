@@ -2,7 +2,7 @@
 
 A comprehensive AI-powered platform built with Next.js that provides multiple creative generation capabilities including conversation, image generation, video creation, music composition, and code generation.
 
-![Seous AI Dashboard](./screenshots/dashboard.png)
+![Seous AI Dashboard](public/Screenshot 2025-07-01 182414.png)
 
 ## 🚀 Features
 
